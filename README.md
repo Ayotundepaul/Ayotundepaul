@@ -27,66 +27,6 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 
 #
 
-Sure! Creating a GitHub portfolio README requires combining Markdown with HTML/CSS for styling. Here's a sample README for a DevOps / Site Reliability Engineer:
-
-```markdown
-<h1 align="center">Hello there! 👋 I'm [Your Name]</h1>
-<h3 align="center">A passionate DevOps & Site Reliability Engineer</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGithubUsername]&show_icons=true&theme=radical" alt="[YourName]'s GitHub Stats" />
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedInUsername]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/[YourTwitterHandle]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:[YourEmail]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-🔧 **Technologies & Tools**
-
-```bash
-# Cloud
-AWS, Azure, Google Cloud
-
-# Infrastructure as Code
-Terraform, CloudFormation
-
-# Containerization
-Docker, Kubernetes
-
-# CI/CD
-Jenkins, CircleCI, GitLab CI
-
-# Monitoring
-Prometheus, Grafana, ELK Stack
-
-# Others
-Git, Bash, Python, Ansible, Chef
-```
-
----
-
-🌱 **Currently Learning**
-
-- Advanced Kubernetes Patterns
-- Cloud Security Best Practices
-- Chaos Engineering
-
----
-
-📊 **This Week I Spent My Time On**
-
-```text
-Docker       ██████████░░░░░░░░░░░░░░░   42% 
-Kubernetes   ████████░░░░░░░░░░░░░░░░░   35% 
-Terraform    █████░░░░░░░░░░░░░░░░░░░░   15% 
-Ansible      ██░░░░░░░░░░░░░░░░░░░░░░░   8% 
-```
-
----
 
 📫 **How to reach me**: You can send me an [email](mailto:[YourEmail]) or drop me a message on [LinkedIn](https://linkedin.com/in/[YourLinkedInUsername]).
 
@@ -95,20 +35,11 @@ Ansible      ██░░░░░░░░░░░░░░░░░░░░�
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGithubUsername]&theme=radical" alt="Your Name's Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[Ayotundepaul]&theme=radical" alt="Paul's Streak" />
 </p>
 
 ```
 
-Make sure to replace placeholders (like `[YourName]`, `[YourGithubUsername]`, `[YourLinkedInUsername]`, `[YourTwitterHandle]`, and `[YourEmail]`) with your actual information. 
 
-You can also add or modify sections as per your needs. This is just a basic template. The badges, stats, and streak cards are from various GitHub repositories that offer these as a service, so they should work as long as those repositories are maintained.
-
-To make this work:
-1. Create a new repository with the same name as your GitHub username.
-2. Place the above content in the `README.md` of that repository.
-3. Customize it according to your skills and experience.
-
-Remember, the more personal and tailored your README is, the more it will stand out!
 
 
