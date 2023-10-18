@@ -27,6 +27,21 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 
 #
 
+---
+
+<h3 align="center">👨‍💻 Currently Putting in the Work 💪</h3>
+
+<p align="center">
+  I'm currently deep diving into projects, enhancing my skills, and collaborating with teams to deliver excellence. Stay tuned for some exciting updates!
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Working hard GIF">
+</div>
+
+---
+
+
 
 📫 **How to reach me**: You can drop me a message on [LinkedIn](https://linkedin.com/in/paul-oseleye/).
 <p align="center">
