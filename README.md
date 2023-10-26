@@ -45,5 +45,5 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 
 📫 **How to reach me**: You can drop me a message on [LinkedIn](https://linkedin.com/in/paul-oseleye/).
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[Ayotundepaul]&theme=dark" alt="Paul's Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[Ayotundepaul]&theme=default" alt="Paul's Streak" />
 </p>
