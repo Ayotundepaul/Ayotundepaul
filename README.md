@@ -48,3 +48,6 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[Ayotundepaul]&theme=default" alt="Paul's Streak" />
   <img align="center" src[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayotundepaul)](https://git.io/streak-stats) />
 </p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayotundepaul&layout=compact" />
+</p>
