@@ -32,7 +32,7 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 <h3 align="center">👨‍💻 Currently Putting in the Work 💪</h3>
 
 <p align="center">
-  I'm currently deep diving into projects, enhancing my skills, and collaborating with teams to deliver excellence. Stay tuned for some exciting updates!
+  Have a Passion always to be better!
 </p>
 
 <div align="center">
