@@ -2,7 +2,7 @@
 
 **`Software Engineer (DevOps/Site Reliability/Cloud)`**
 
-A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of cultivating infrastructures and ensuring 99.99% uptime, I'm your go-to person for resilient and scalable systems. When I'm not optimizing pipelines or tinkering with Kubernetes clusters, you'll find me sipping on cold brew ☕ and leveling up on the latest infrastructure as code tools. Let's ensure your sites stay up, your deployments are smooth, and sprinkle in some fun while we're at it! 🎉 Let's code, collaborate, and ensure continuous uptime together! 🛠️ #InfrastructureIsFun #ReliabilityRocks
+A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of cultivating infrastructures and ensuring 99.99% uptime, I'm your go-to person for resilient and scalable systems. When I'm not optimizing pipelines or tinkering with Kubernetes clusters, you'll find me sipping on cold brew ☕ and levelling up on the latest infrastructure as code tools. Let's ensure your sites stay up, your deployments are smooth, and sprinkle in some fun while we're at it! 🎉 Let's code, collaborate, and ensure continuous uptime together! 🛠️ #InfrastructureIsFun #ReliabilityRocks
 
 
 ### 🧰 Languages and Tools
@@ -32,7 +32,8 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 <h3 align="center">👨‍💻 Currently Putting in the Work 💪</h3>
 
 <p align="center">
-  Have a Passion always to be better!
+  A dream doesn't become reality through magic; it takes sweat, determination and hard work.
+- Colin Powell!
 </p>
 
 <div align="center">
