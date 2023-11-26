@@ -29,7 +29,7 @@ A seasoned DevOps Engineer and Site Reliability aficionado. 🚀 With years of c
 
 ---
 
-<h3 align="center">👨‍💻 Currently Putting in the Work 💪</h3>
+<h3 align="center">👨‍💻 Thoughts 💪</h3>
 
 <p align="center">
   A dream doesn't become reality through magic; it takes sweat, determination and hard work.
